@@ -1,0 +1,98 @@
+/* Universal Selector*/
+*{
+    font-size: 16px;
+    background-color: white;
+}
+/* Type Selector*/
+span{
+    color: red;
+}
+h1{
+    font-size: 30px;
+    color: black;
+}
+fieldset{
+    font-size: 12px;
+    color: gray;
+}
+/* Class Selector*/
+p.top-news-small-text{
+    font-size: 16px;
+    color: black;
+}
+.article-small-text{
+    font-size: 12px;
+    color: gray;
+}
+.social-buttons{
+    font-size: 12px;
+}
+.sidebar-text-photo-of-the-day{
+    font-size: 18px;
+    color: gray;
+}
+.footer-contacts-text-bottom{
+    font-size: 14px;
+    color: gray;
+    background-color: red;
+}
+/* ID Selector*/
+#article-paragraph-bold{
+    font-size: 24px;
+    color: black;
+}
+#author-article-small{
+    color: black;
+}
+#author-name{
+    font-size: 12px;
+    color: red;
+}
+#other-news-bottom-section-heading{
+    font-size: 18px;
+    color: white;
+    background-color: red;
+}
+#other-news-bottom-text{
+    font-size: 16px;
+    color: black;
+}
+#number-of-comments{
+    font-size: 14px;
+    color: black;
+}
+#sort-small-text{
+    font-size: 16px;
+    color: gray;
+}
+#footer-contacts-text{
+    font-size: 16px;
+    color: gray;
+    background-color: red;
+}
+/* Child Selector*/
+nav > ul > li > a{
+    font-size: 14px; 
+    color: gray;
+}
+#current-page-top > a{
+    font-size: 12px;
+}
+aside > p{
+    font-size: 18px;
+    color: white;
+    background-color: red;
+}
+#author-commentaries > h3{
+    color: gray;
+    background-color: black;
+}
+#photo-of-the-day >a{
+    font-size: 18px;
+    color: gray;
+}
+/* Descendant Selector*/
+article p{
+    font-size: 18px;
+    color: black;
+}

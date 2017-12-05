@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+aside{
+    width: 34.5%;
+    height: 700px;
+    float: left;
+    overflow-y: scroll;
+    border: 10px double saddlebrown;
+}
+main{
+    width: 64.5%;
+    float: right;
+    height: 100%;
+    border: 1px solid goldenrod;
+}

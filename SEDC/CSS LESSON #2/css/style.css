@@ -1,0 +1,34 @@
+body{
+    background-color: hsla(184, 96%, 46%, 0.6);
+}
+img{
+    vertical-align: sub;
+}
+h1{
+    text-shadow: 12px -5px;
+}
+.oboi-me{
+    color: red;
+    text-transform: capitalize;
+}
+
+.boi-so-hex{
+color: #1aaa2d;
+}
+.oboi-so-rgb{
+    color: rgb(15, 128, 228);
+    font-family: 'Spectral SC', serif;
+    text-transform: uppercase;
+    text-decoration: overline;
+    word-spacing: 15px;
+}
+.oboi-so-color-name{
+    color: red;
+    line-height: 50px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+.oboi-so-rgba{
+    color: rgba(22,22,22,0.4);
+    background-color: rgba(100, 100, 100, 0.6);
+}

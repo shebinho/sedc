@@ -1,0 +1,14 @@
+p::first-letter{
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic; 
+    text-transform: capitalize;
+    font-size: 48px;
+    color: goldenrod;
+    
+}
+.nav-fix{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: firebrick;
+}
